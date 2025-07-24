@@ -10,12 +10,12 @@ h1 {
     text-align: center;
 }
 
-ul {
+.ulindex {
     text-align: center;
     border: 2px solid;
 }
 
-.index {
+.aindex {
     display: block;
     font-size: 100px;
     padding: 20px;
