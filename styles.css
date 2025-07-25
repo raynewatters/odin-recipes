@@ -19,8 +19,12 @@ h3,h3naca {
     display: block;
 }
 
-.nacadiv {
+.nacacontainer {
     display: flex;
+}
+
+dic.nacacontainertwo {
+    flex-direction: column;
 }
 
 .nacatamales {
