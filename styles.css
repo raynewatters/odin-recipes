@@ -15,21 +15,31 @@ h1.nacah1 {
     margin-right: 0;
 }
 
-h3,h3naca {
+h3.h3naca.description {
     display: block;
+text-align: center;
+font-size: 30px;
+font-weight: 800;
+font-style: italic;
+border: solid 2px;
+border-color: purple;
+background-color: purple;
 }
 
 .nacacontainer {
     display: flex;
 }
 
-dic.nacacontainertwo {
+div.nacacontainertwo {
     flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
 }
 
-.nacatamales {
-    display: inline;
-    margin: 0;
+#nacatamales {
+border: solid 4px;
+border-color: purple;
 }
 
 .h1index {
