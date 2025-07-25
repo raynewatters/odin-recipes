@@ -15,8 +15,12 @@ h1.nacah1 {
     margin-right: 0;
 }
 
+h3,h3naca {
+    display: block;
+}
+
 .nacadiv {
-    
+    display: flex;
 }
 
 .nacatamales {
